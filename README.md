@@ -7,9 +7,13 @@ Welcome to my GitHub profile! I’m a Computer Science student with a strong foc
 ## 🛡️ About Me
 
 💻 Cybersecurity Enthusiast | Security Tester
+
 🎓 Computer Science Student (Cybersecurity Focus)
+
 🧪 Passionate about **Security Testing, Automation & Vulnerability Analysis**
+
 🤖 Exploring **AI/ML for Threat Detection & Security Testing**
+
 
 ---
 
@@ -78,23 +82,18 @@ An AI-driven endpoint monitoring and phishing detection system focused on behavi
 ## 💼 Skills
 
 **Cybersecurity:**
-
 VAPT, Network Security, Web & API Security Testing, Malware Analysis & Reverse Engineering, Threat Modeling & Risk Assessment, Security Misconfiguration Analysis, Phishing Analysis & Detection Techniques
 
 **Testing & Automation:**
-
 Test Case Design, Manual & Automated Testing, API Testing (Postman, Python), Pytest, Regression Testing, Bug Reporting
 
 **AI/ML:**
-
 Basic ML models, Anomaly Detection, Classification Models, Model Evaluation (Accuracy, Precision, Recall), Basic NLP, AI for Cybersecurity
 
 **Languages & Tools:**
-
 Python, Java, HTML, CSS, JavaScript, Kali Linux, Nmap, Metasploit, Wireshark, Hydra, Autopsy, OWASP ZAP, Burpsuite, Selenium, Jira
 
 **Soft Skills:**
-
 Problem Solving, Critical Thinking, Analytical Mindset, Ethical Mindset, Attention to Detail, Communication Skills, Organisational Skills
 
 ---
