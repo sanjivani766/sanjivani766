@@ -39,6 +39,7 @@ A mini Burp Suite + QA automation engine designed to perform automated security 
 * Built intelligent test case generation and regression testing pipelines
 * Integrated an AI/ML layer to classify responses as normal vs suspicious using response patterns, status codes, and anomalies
 * Generates detailed HTML/JSON reports with severity scoring (CVSS-like) and reproduction steps
+  
   👉 *Built an automated security testing framework with AI-based anomaly detection*
 
 ---
@@ -52,6 +53,7 @@ A security-focused testing system for validating authentication strength and enc
 * Uses ML models to detect weak human-generated password patterns
 * Integrates AES-based encryption with validation and failure testing
 * Covers edge cases like invalid keys, corrupted data, and encryption failures
+
   👉 *Developed a cryptographic validation and password security testing suite with attack simulation*
 
 ---
@@ -64,6 +66,7 @@ An AI-driven endpoint monitoring and phishing detection system focused on behavi
 * Uses machine learning to detect anomalies like unusual activity spikes and suspicious patterns
 * Performs phishing detection through URL and email analysis using NLP and feature extraction
 * Outputs risk scores and evaluates model performance using accuracy, precision, and recall
+
   👉 *Built an AI-powered threat detection system combining behavioral analysis and phishing detection*
 
 
