@@ -101,8 +101,11 @@ Problem Solving, Critical Thinking, Analytical Mindset, Ethical Mindset, Attenti
 ## 🧪 Tester Mindset
 
 ✔ Writing structured test cases
+
 ✔ Performing edge case & negative testing
+
 ✔ Simulating real-world attack scenarios
+
 ✔ Generating vulnerability reports with reproduction steps
 
 ---
