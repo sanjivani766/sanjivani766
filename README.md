@@ -74,13 +74,13 @@ An AI-driven endpoint monitoring and phishing detection system focused on behavi
 ## 💼 Skills
 
 **Cybersecurity:**
-VAPT, Network Security, Web Security Testing, Malware Analysis, 
+VAPT, Network Security, Web & API Security Testing, Malware Analysis & Reverse Engineering, Threat Modeling & Risk Assessment, Security Misconfiguration Analysis, Phishing Analysis & Detection Techniques
 
 **Testing & Automation:**
-Test Case Design, Automation (Python), API Testing
+Test Case Design, Manual & Automated Testing, API Testing (Postman, Python), Pytest, Regression Testing, Bug Reporting
 
 **AI/ML:**
-Basic ML Models, Anomaly Detection
+Basic ML models, Anomaly Detection, Classification Models, Model Evaluation (Accuracy, Precision, Recall), Basic NLP, AI for Cybersecurity
 
 **Languages & Tools:**
 Python, Java, HTML, CSS, JavaScript, Kali Linux, Nmap, Metasploit, Wireshark, Hydra, Autopsy, OWASP ZAP, Burpsuite, Selenium, Jira
@@ -117,8 +117,11 @@ Problem Solving, Critical Thinking, Analytical Mindset, Ethical Mindset, Attenti
 ## ⚡ Fun Fact
 
 When I’m not testing systems or building security tools, I’m probably:
+
 ♟️ Playing Chess | 🚴 Out cycling | 🏸 Playing Badminton | 🎧 Listening to music | 💡 Questioning: “How can this be broken or improved?”  
 
 ---
 
 ✨ *Always learning, always testing, always improving.*
+
+Thanks for stopping by! Feel free to explore my repositories and connect if you're interested in collaborating or just geeking out over tech 🤝
