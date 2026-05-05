@@ -16,6 +16,7 @@ Welcome to my GitHub profile! I’m a Computer Science student with a strong foc
 ## 🔭 Currently Working On
 
 🚀 **AI-Powered Security Testing Platform**
+
 Building an automated system to detect vulnerabilities in APIs and web applications using:
 
 * Test case automation
@@ -27,6 +28,7 @@ Building an automated system to detect vulnerabilities in APIs and web applicati
 ## 🧠 Projects & Work
 
 🚀 **Security Testing & Automation Platform (Flagship Project)**
+
 A mini Burp Suite + QA automation engine designed to perform automated security testing on APIs and web applications.
 
 * Developed an automated test engine to detect vulnerabilities like SQL Injection, XSS, broken authentication, and rate limiting issues
@@ -38,6 +40,7 @@ A mini Burp Suite + QA automation engine designed to perform automated security 
 ---
 
 🔐 **Intelligent Authentication & Cryptography Testing Suite**
+
 A security-focused testing system for validating authentication strength and encryption mechanisms.
 
 * Simulates brute-force and dictionary attacks to evaluate password robustness
@@ -50,6 +53,7 @@ A security-focused testing system for validating authentication strength and enc
 ---
 
 🛡️ **AI-Based Threat Detection & User Behavior Analysis System**
+
 An AI-driven endpoint monitoring and phishing detection system focused on behavioral anomaly detection.
 
 * Monitors user activity such as application usage, typing patterns, and session behavior
@@ -74,18 +78,23 @@ An AI-driven endpoint monitoring and phishing detection system focused on behavi
 ## 💼 Skills
 
 **Cybersecurity:**
+
 VAPT, Network Security, Web & API Security Testing, Malware Analysis & Reverse Engineering, Threat Modeling & Risk Assessment, Security Misconfiguration Analysis, Phishing Analysis & Detection Techniques
 
 **Testing & Automation:**
+
 Test Case Design, Manual & Automated Testing, API Testing (Postman, Python), Pytest, Regression Testing, Bug Reporting
 
 **AI/ML:**
+
 Basic ML models, Anomaly Detection, Classification Models, Model Evaluation (Accuracy, Precision, Recall), Basic NLP, AI for Cybersecurity
 
 **Languages & Tools:**
+
 Python, Java, HTML, CSS, JavaScript, Kali Linux, Nmap, Metasploit, Wireshark, Hydra, Autopsy, OWASP ZAP, Burpsuite, Selenium, Jira
 
 **Soft Skills:**
+
 Problem Solving, Critical Thinking, Analytical Mindset, Ethical Mindset, Attention to Detail, Communication Skills, Organisational Skills
 
 ---
@@ -110,6 +119,7 @@ Problem Solving, Critical Thinking, Analytical Mindset, Ethical Mindset, Attenti
 ## 📫 How to Reach Me
 
 📧 Email: sanjivanipandey13@gmail.com
+
 🔗 LinkedIn: www.linkedin.com/in/sanjivani-pandey1307
 
 ---
@@ -123,5 +133,6 @@ When I’m not testing systems or building security tools, I’m probably:
 ---
 
 ✨ *Always learning, always testing, always improving.*
+
 
 Thanks for stopping by! Feel free to explore my repositories and connect if you're interested in collaborating or just geeking out over tech 🤝
